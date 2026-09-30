@@ -1,1 +1,11 @@
-Hello
+Full Name
+Job Title
+Short Address
+
+Bio
+
+Social Links :
+	linkedin 
+	github
+
+Copyright
