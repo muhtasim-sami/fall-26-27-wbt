@@ -1,11 +1,95 @@
-Full Name
-Job Title
-Short Address
+index.html
+==========
+	Full Name
+	Job Title
+	Short Address
 
-Bio
+	Bio
 
-Social Links :
-	linkedin 
-	github
+	Social Links :
+		linkedin 
+		github
 
-Copyright
+	Copyright
+
+html/education.html
+===================
+	
+	University Logo
+	University Name
+	Degree Name
+	Relevant Courses
+
+	HSC College Logo
+	HSC College Name
+	Stream
+	Relevant Subjects
+
+	SSC School Logo
+	SSC School Name
+	Stream
+	Relevant Subjects
+
+html/experience.html
+====================
+	
+	Company Logo
+	Company Name
+	Job Role
+	Responsibilities
+
+	Company Logo
+	Company Name
+	Job Role
+	Responsibilities
+
+	Company Logo
+	Company Name
+	Job Role
+	Responsibilities
+
+html/projects.html
+==================
+	Project Snapshot
+	Project Name
+	Project Description
+	Tech Stack
+
+	Project Snapshot
+	Project Name
+	Project Description
+	Tech Stack
+
+	Project Snapshot
+	Project Name
+	Project Description
+	Tech Stack
+
+html/contactme.html
+===================
+	
+	First Name
+	Last Name
+	Email
+
+	Country:
+		Bangladesh
+		Other
+		UK
+		USA
+	
+	Reason of Contact:
+		Job
+		Project
+		Research
+
+	Domain:
+		Cyberscurity
+		Penetration Testing
+		Red Team
+	
+	Message
+	Appointment Date
+	Submit Reset
+
+
