@@ -18,3 +18,4 @@ function showAnswer(){
 
 }
 
+showAnswer();
